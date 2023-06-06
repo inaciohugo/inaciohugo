@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/inaciohugo/5ab695795fa73c25da892cc4d
 
 
 - 🔭 I’m currently working on Worten Resolve
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about ** HTML, CSS, JavaScript,React.JS **
 - 📫 How to reach me: inaciohugo@sapo.pt
  
 <br>

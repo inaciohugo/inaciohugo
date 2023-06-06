@@ -2,7 +2,6 @@
 src="https://raw.githubusercontent.com/gist/inaciohugo/5ab695795fa73c25da892cc4d8e30399/raw/f5cde3c7123587f9c6c77d539de7501537ed5a1b/githubcard2.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Hugo Inácio</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inaciohugo&color=yellow" alt="Profile views" /> </p>
 
 
 <br><br>
